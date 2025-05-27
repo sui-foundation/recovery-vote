@@ -1,0 +1,9 @@
+[package]
+name = "governance_voting"
+edition = "2024.beta"
+
+[dependencies]
+
+[addresses]
+governance_voting = "0x0"
+
