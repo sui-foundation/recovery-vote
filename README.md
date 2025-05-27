@@ -1,3 +1,5 @@
+This repository contains the contract for voting on the Cetus hack recovery plan. More information is at https://blog.sui.io/cetus-incident-response-onchain-community-vote/
+
 # Instructions for casting a vote as a validator
 
 First, find a gas coin owned by your validator address.
